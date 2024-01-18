@@ -35,6 +35,7 @@ Wiki Link : []()
 - Controller: ESP32-S3
 - Wireless: WiFi& Bluetooth 5.0
 - LCD: 2.8", 320*240 resolution, driver ST7789
+- Camera: OV3660
 
 
 # Code
@@ -69,3 +70,10 @@ You can run this file test if you feel that your hardware is not working properl
 
 Need copy logo_240240.jpg to sd card.
 
+\example\fw_test
+
+Hardware test without camera.
+
+\example\graph_test_gfx
+
+Simple TFT display demo.
