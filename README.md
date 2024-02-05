@@ -16,7 +16,7 @@ Note:
 
 [Makerfabs home page](https://www.makerfabs.com/)
 
-[Makerfabs Wiki](https://wiki.makerfabs.com/)
+[Makerfabs Wiki](https://wiki.makerfabs.com/ESP_S3_SPI_TFT_with_Touch_2.8inch.html)
 
 # Matouch ESP32-S3 SPI TFT with Touch 2.8" 
 
